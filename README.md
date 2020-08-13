@@ -1,7 +1,6 @@
 
 
-# Data Scientist Nanodegree (Term 2)
-
+# Gaussian and Binomial distributions package `distributions_dirkkadijk`
 
 
 
