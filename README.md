@@ -8,6 +8,8 @@
 ## 1. Installation
 
  The code should run with no issues using Python versions 3.6 and 3.7.
+ 
+ Matplotlib package must be installed.
 
 
 
@@ -23,7 +25,8 @@ https://pypi.org/project/distributions-dirkkadijk/0.1/#files
 
 ## 3. Data source
 
-na
+You can find the lessons, functionality and used data files in the data scientist nanodegree term 2 GitHub repo:
+https://github.com/udacity/DSND_Term2/tree/master/lessons/ObjectOrientedProgramming.
 
 
 
