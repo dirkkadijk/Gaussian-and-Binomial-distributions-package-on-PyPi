@@ -13,7 +13,7 @@
 
 ## 2. Project motivations
 
-Purpose of this Udacity Data Science Nanodegree project is to learn how to built a multi-module package based on Object Oriented programming.
+Purpose of this Udacity Data Science Nanodegree project is to learn how to built a multi-class (and multi-module) package based on Object Oriented programming.
 
 And to upload a self built 'distributions_dirkkadijk' package to PyPi (pypi.org) which is now available on:
 
