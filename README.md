@@ -30,7 +30,7 @@ na
 ## 4. Summary of the results
 
 
-In the distributions_dirkkadijk folder, you'll find three files. 
+In folder you'll find three files:
 
 - Generic distribution class for calculating and visualizing a probability distribution.
 
