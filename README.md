@@ -1,6 +1,6 @@
 
 
-# Gaussian and Binomial distributions package `distributions_dirkkadijk`
+# Gaussian and Binomial distributions package 'distributions_dirkkadijk'
 
 
 
