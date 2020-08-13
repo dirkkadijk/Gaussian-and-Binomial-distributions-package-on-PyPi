@@ -44,9 +44,8 @@ In folder you'll find three files:
 You can click on the package py-files to look at how the 'Distribution class' and 'Gaussian class' are modularized into different files. 
 E.g. the Gaussiandistribution.py imports Distribution class from the Generaldistribution.py file. The line of code:
 
-'''
-from Generaldistribution import Distribution
-'''
+>from Generaldistribution import Distribution
+
 
 essentially pastes the Distribution code to the top of the Gaussiandistribution file when you run the code.
 
