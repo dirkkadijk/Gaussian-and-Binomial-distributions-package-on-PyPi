@@ -32,7 +32,7 @@ na
 
 In folder you'll find three files:
 
-- Generic distribution class for calculating and visualizing a probability distribution.
+- 'Binomial_distribution.py`: Generic distribution class for calculating and visualizing a probability distribution.
 
 - Gaussian distribution class for calculating and visualizing a Gaussian distribution.
 
