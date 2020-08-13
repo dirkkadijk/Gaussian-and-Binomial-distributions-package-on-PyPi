@@ -32,11 +32,11 @@ na
 
 In folder you'll find three files:
 
-- 'Binomial_distribution.py`: Generic distribution class for calculating and visualizing a probability distribution.
+- 'Binomialdistribution.py`: Generic distribution class for calculating and visualizing a probability distribution.
 
-- Gaussian distribution class for calculating and visualizing a Gaussian distribution.
+- `Gaussiandistribution.py`: Gaussian distribution class for calculating and visualizing a Gaussian distribution.
 
-- The 3rd package in the distributions_dirkkadijk package is with a new class called Binomial distribution class for calculating and visualizing a Binomial distribution.
+- 'Binomialdistribution.py`: The 3rd package in the distributions_dirkkadijk package is with a new class called Binomial distribution class for calculating and visualizing a Binomial distribution.
 
 You can click on the package py-files to look at how the 'Distribution class' and 'Gaussian class' are modularized into different files. 
 E.g. the Gaussiandistribution.py imports Distribution class from the Generaldistribution.py file. The line of code:
