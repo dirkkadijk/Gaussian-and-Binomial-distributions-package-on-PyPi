@@ -35,7 +35,7 @@ https://github.com/udacity/DSND_Term2/tree/master/lessons/ObjectOrientedProgramm
 
 In folder you'll find three files:
 
-- `Binomialdistribution.py`: Generic distribution class for calculating and visualizing a probability distribution.
+- `Generaldistribution.py`: Generic distribution class for calculating and visualizing a probability distribution.
 
 - `Gaussiandistribution.py`: Gaussian distribution class for calculating and visualizing a Gaussian distribution.
 
